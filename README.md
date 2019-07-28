@@ -1,0 +1,2 @@
+# aerocoin
+Aero Coin
